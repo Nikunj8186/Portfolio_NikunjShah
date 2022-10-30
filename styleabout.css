@@ -1,0 +1,11 @@
+*{
+    background-color:cyan;
+}
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    top: 0;
+    left: 0;
+}
